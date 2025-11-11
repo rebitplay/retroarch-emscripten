@@ -7,17 +7,7 @@
     "1.21.0/**/*"
   ],
   "keywords": [
-    "retroarch",
-    "emscripten",
-    "emulator",
-    "webassembly",
-    "wasm",
-    "libretro",
-    "retro gaming",
-    "nes",
-    "snes",
-    "gameboy",
-    "genesis"
+    "rebit"
   ],
   "repository": {
     "type": "git",
