@@ -1,6 +1,6 @@
 {
   "name": "@rebitplay/retroarch-emscripten",
-  "version": "1.21.0",
+  "version": "2.0.0",
   "description": "RetroArch Emscripten build - Pre-built WebAssembly cores for retro gaming emulation",
   "main": "main.js",
   "files": [
