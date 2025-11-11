@@ -1,0 +1,31 @@
+{
+  "name": "@rebitplay/retroarch-emscripten",
+  "version": "1.21.0",
+  "description": "RetroArch Emscripten build - Pre-built WebAssembly cores for retro gaming emulation",
+  "main": "main.js",
+  "files": [
+    "1.21.0/**/*"
+  ],
+  "keywords": [
+    "retroarch",
+    "emscripten",
+    "emulator",
+    "webassembly",
+    "wasm",
+    "libretro",
+    "retro gaming",
+    "nes",
+    "snes",
+    "gameboy",
+    "genesis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rebitplay/retroarch-emscripten.git"
+  },
+  "author": "bangnokia",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
